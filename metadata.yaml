@@ -1,0 +1,31 @@
+_repo: L-auca-del-senyor-Esteve-ab-redolins-dibuixats-per-en-Ramon-Casas-escrits-per-en-Gabriel-Alom__56856
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Alomar, Gabriel
+    gutenberg_agent_id: '49059'
+    url: http://www.gutenberg.org/2009/agents/49059
+  illustrator:
+    agent_name: Casas, Ramón
+    gutenberg_agent_id: '49060'
+    url: http://www.gutenberg.org/2009/agents/49060
+creator:
+  author:
+    agent_name: Rusiñol, Santiago
+    gutenberg_agent_id: '49058'
+    url: http://www.gutenberg.org/2009/agents/49058
+description: ''
+gutenberg_issued: '2018-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56856'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'L''auca del senyor Esteve
+
+  ab redolins dibuixats per en Ramón Casas; escrits per en Gabriel Alomar'
+url: http://www.gutenberg.org/ebooks/56856
